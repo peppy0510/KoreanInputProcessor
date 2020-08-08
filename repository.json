@@ -1,0 +1,11 @@
+{
+    "name": "KoreanInputProcessor",
+    "details": "https://github.com/peppy0510/KoreanInputProcessor",
+    "releases": [
+        {
+            "sublime_text": "*",
+            "platforms": ["windows"],
+            "tags": true
+        }
+    ]
+}
